@@ -65,3 +65,16 @@ Screenshots of SQL queries and their outputs are available in the `Output screen
 ## Conclusion
 This project demonstrates the use of PostgreSQL to explore retail inventory data, analyze product pricing and discounts, and derive inventory-related business insights.
 
+## Project Screenshots
+
+### 1. Total Records
+![Row Count](Output%20screenshots/row_count.png)
+
+### 2. Product Categories
+![Categories](Output%20screenshots/product_categories.png)
+
+### 3. Stock Availability
+![Stock Analysis](Output%20screenshots/stock_availability.png)
+
+### 4. Category Revenue
+![Revenue](Output%20screenshots/category_revenue.png)
